@@ -13,5 +13,8 @@ btn.onclick = () => {
     input.value = "";
     // count = (list.childElementCount);
 }
+//This is Script 
+//of Javascript
+//for webpage functioning
 let list = document.getElementById('list');
 console.log((list.childElementCount));
